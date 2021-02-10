@@ -7,7 +7,7 @@ public class Person {
     public String name;
 
     public Person (int a, String n){
-        age = a;
+        age =  a;
         name = n;
     }
 
